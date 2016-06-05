@@ -1,8 +1,5 @@
 package aleksander.testapplication;
 
-/**
- * Created by Aleksander on 6/5/2016.
- */
 import android.app.Activity;
 import android.content.Context;
 import android.content.pm.ActivityInfo;
